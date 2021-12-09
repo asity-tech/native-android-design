@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Native-Android-Designs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="abhisek_samantaray">Abhisek Samantaray</string>
+    <string name="bhubaneshwar_odisha">Bhubaneshwar, Odisha</string>
+    <string name="invite_a_friend">Invite a friend</string>
+    <string name="share_with_your_friends">Share with your friends</string>
+    <string name="help">Help</string>
+    <string name="help_centre_contact_us_privacy_policy">help centre, contact us, privacy policy</string>
+    <string name="storage_amp_data"><![CDATA[Storage & Data]]></string>
+    <string name="network_usage_auto_download">Network usage, auto download</string>
+    <string name="notifications">Notifications</string>
+    <string name="message_group_amp_call_tunes"><![CDATA[Message, group & call tunes]]></string>
+    <string name="chats">Chats</string>
+    <string name="theme_wallpaper_chat_history">Theme, wallpaper, chat history</string>
+    <string name="account">Account</string>
+    <string name="privacy_security_change_number">Privacy, security, change number</string>
 </resources>
