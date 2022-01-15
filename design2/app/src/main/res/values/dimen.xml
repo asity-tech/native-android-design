@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_heading">28sp</dimen>
+    <dimen name="para_dimen">12sp</dimen>
+    <dimen name="button_dimen">14sp</dimen>
+</resources>

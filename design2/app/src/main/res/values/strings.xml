@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">design2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="always_say_yes_to_new_adventures">Always say yes to new adventures.</string>
+    <string name="para1">Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.</string>
+    <string name="keep_clam_and_travel_on">Keep clam and travel on</string>
+    <string name="life_isn_t_meant_to_be_in_one_place">Life isn’t meant to be in one place</string>
 </resources>
